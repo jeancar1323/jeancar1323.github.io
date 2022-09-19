@@ -3,6 +3,7 @@ body {
   background-image: url("res/nic_back.jpg");
   color: white;
   background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 header {
